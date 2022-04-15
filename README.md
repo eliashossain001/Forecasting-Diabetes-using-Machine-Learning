@@ -20,6 +20,6 @@ Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (198
 * LogisticRegression
 * Naive Bayes 
 
-# Please cite my article
+# Please cite this article/work
 
-E. Hossain, M. Alshehri, S. Almakdi, H. Halawani, M.-M. Rahman, W. Rahman, et al., "Dm-Health App: Diabetes Diagnosis Using Machine Learning with Smartphone," Computers, Materials \& Continua, vol. 72, pp. 1713--1746, 2022.
+E. Hossain, M. Alshehri, S. Almakdi, H. Halawani, M. Mizanur Rahman et al., "Dm-health app: diabetes diagnosis using machine learning with smartphone," Computers, Materials & Continua, vol. 72, no.1, pp. 1713–1746, 2022.
